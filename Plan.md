@@ -34,6 +34,9 @@ Timeline:
 
 *Decide on how to practice the exercises that I alredy have from the TI's I have already taken* 
 
+### FullStack
+* This is FullStack Academy [Prep Course](https://www.fullstackacademy.com/bootcamp-prep)
+* This is FullStack Academy [Review](https://docs.google.com/forms/d/e/1FAIpQLSdm9BkcEN3AuFVuhKeSG7-Rzf4srOCkPRDLOPpqUC2I68Fw6g/viewform) to assess readiness to enter the bootcamp
 
 
 --------------------------------------------------------
