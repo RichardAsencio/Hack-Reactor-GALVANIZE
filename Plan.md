@@ -7,6 +7,20 @@ This document lays out the timeline of how I intend to go thru all the material,
 Timeline:
 
 *Hammer the concepts covered on Mod 0*
+1. Bonus Prep - Deprecated Module 0: Beta (not Udacity content) 
+2. Premium Prep - Self Assessment 0
+3. Bonus Prep - Deprecated Module 0: Building Blocks Intro (Udacity content) 
+4. Premium Prep - Self Assessment 0
+5. Basic Prep - Module 0: Building Blocks Intro (not Udacity content) 
+6. Premium Prep - Self Assessment 0
+7. Premium Prep - Module 0: Building Blocks Intro (Udacity content)
+8. Premium Prep - Self Assessment 0
+9. Mentored Prep - Module 0: Building Blocks Intro (not Udacity content) 
+10. Premium Prep - Self Assessment 0
+
+
+///////
+*Hammer the concepts covered on Mod 0*
 1. Bonus Prep - Deprecated Module 0: Beta (not Udacity content) *DONE*
 2. Bonus Prep - Deprecated Module 0: Building Blocks Intro (Udacity content) *DONE*
 3. Basic Prep - Module 0: Building Blocks Intro (not Udacity content) *DONE*
