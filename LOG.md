@@ -4,6 +4,12 @@
 
 ----------------------------------------------------------------
 
+### 
+#### **Today's Activity** 
+1. Stil On: Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Arrays and Objects, and Conditionals, Loops and Functions and Item (2) of workplan
+
+----------------------------------------------------------------
+
 ### Log Entry for Day 1: Thursday July 16th, 2020
 #### **Today's Activity** 
 1. Did: Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Booleans, Number and Strings  
