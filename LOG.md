@@ -1,12 +1,29 @@
 # Activity LOG
 
 *These are my log entries notes as I progress thru the material*
+*Starting on Jan 4 2021*
+
+
+*Jan 4 2020*
+- started with Bonus Prep Modules / Deprecated Mod 0 Beta / Introduction
+I was able to do the Admissions Challenge without much effort:
+https://learn-2.galvanize.com/cohorts/1570/blocks/74/content_files/Introduction/checkpoint.md
+
+
+
+
+
+
+
+
+
+
 
 ----------------------------------------------------------------
 
 ### 
 #### **Today's Activity** 
-1. Stil On: Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Arrays and Objects, and Conditionals, Loops and Functions and Item (2) of workplan
+1. Still On: Bonus Prep/Deprecated/Module 0 - Beta // Operators and Methods for Arrays and Objects, and Conditionals, Loops and Functions and Item (2) of workplan
 
 ----------------------------------------------------------------
 
