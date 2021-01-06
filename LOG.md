@@ -4,16 +4,15 @@
 *Starting on Jan 4 2021*
 
 
+*Jan 6 2020*
+Did the [Every Programming Language in 15 Minutes](https://youtu.be/duhDovqHbEs)
+[come back here](https://learn-2.galvanize.com/cohorts/1570/blocks/74/content_files/JS_Overview/lesson.md)
+
+
 *Jan 4 2020*
 - started with Bonus Prep Modules / Deprecated Mod 0 Beta / Introduction
 I was able to do the Admissions Challenge without much effort:
-https://learn-2.galvanize.com/cohorts/1570/blocks/74/content_files/Introduction/checkpoint.md
-
-
-
-
-
-
+[come back here](https://learn-2.galvanize.com/cohorts/1570/blocks/74/content_files/Introduction/checkpoint.md)
 
 
 
