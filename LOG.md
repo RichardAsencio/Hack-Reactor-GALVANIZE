@@ -3,6 +3,10 @@
 *These are my log entries notes as I progress thru the material*
 *Starting on Jan 4 2021*
 
+*Jan 17 2020*
+I am at the BONUS PREP MODULES
+- did the JavaScript Overview and the console
+- next time will do [REPL - How Can I Run My JS Code?](https://learn-2.galvanize.com/cohorts/1570/blocks/74/content_files/JS_Overview/repls.md)
 
 *Jan 6 2020*
 Did the [Every Programming Language in 15 Minutes](https://youtu.be/duhDovqHbEs)
